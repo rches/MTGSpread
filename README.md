@@ -16,5 +16,8 @@ futures want -
 Back end
 [] - go to a website
     -ie tcgplayer
+[]  -search for a card
 [] - verify that request made is pulling back information
+[] - format information
+[] - validate data (typescript?)
 [] - save to DB
